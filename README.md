@@ -65,3 +65,89 @@
 * 2010 年冬于北京修改
 * 2015 年于北京重新制作网络开放版本
 * 2019 年于北京上传至 Github
+
+
+
+
+英语中的 **现在完成时（Present Perfect Tense）** 是语法学习中容易混淆的时态之一，因为它结合了 **过去动作** 与 **现在影响** 的双重含义。要准确理解它，需要从 **结构、用法、时间标志词** 以及 **与一般过去时的区别** 几个方面入手：
+
+---
+
+### 一、基本结构
+**现在完成时 = have/has + 过去分词（Past Participle）**  
+- 肯定句：I **have finished** my homework.  
+- 否定句：She **hasn't seen** the movie.  
+- 疑问句：**Have** you **eaten** dinner yet?
+
+---
+
+### 二、核心用法与语境
+现在完成时的本质是 **连接过去与现在**，强调动作的 **结果、影响或持续性**。具体分为以下3种情况：
+
+#### 1. **过去的动作对现在有直接影响**  
+- 动作发生在过去，但结果或状态持续到现在。  
+  - **I've lost my keys.**（钥匙丢了，现在还没找到。）  
+  - **She has broken her leg.**（腿骨折了，现在还没康复。）  
+
+#### 2. **从过去持续到现在的动作或状态**  
+- 常与 **for/since** 连用，表示动作或状态从过去开始，一直延续到当前。  
+  - **I've lived here for 10 years.**（现在仍住在这里。）  
+  - **He has been a teacher since 2020.**（现在仍是老师。）  
+
+#### 3. **经历或重复性动作（不强调具体时间）**  
+- 表示过去某段时间内的经历或多次重复的动作，但时间模糊。  
+  - **Have you ever been to Japan?**（询问人生经历）  
+  - **We've watched this movie three times.**（次数强调，但不提具体时间）  
+
+---
+
+### 三、时间标志词
+现在完成时常与以下时间状语连用（这些词暗示动作与现在有关联）：  
+- **already, just, yet**（已发生/未发生）：  
+  - She **has already left**.  
+  - **Have** you finished **yet**?  
+- **ever, never**（经历）：  
+  - **Have** you **ever** tried sushi?  
+- **for, since**（持续）：  
+  - **I've known her since 2015.**  
+- **recently, lately, so far, up to now**（近期/至今）：  
+  - **I haven't seen him lately.**  
+
+---
+
+### 四、与一般过去时的关键区别
+这是最易混淆的点！关键在于 **是否强调现在的影响** 或 **是否提及具体过去时间**：  
+| **现在完成时** | **一般过去时** |  
+|----------------|----------------|  
+| 动作与现在有关联 | 动作完全结束在过去 |  
+| 不提及具体时间 | 常带具体时间（yesterday, last week等） |  
+| **I've read the book.**（现在知道内容） | **I read the book last year.**（仅陈述过去动作） |  
+
+---
+
+### 五、常见错误与注意事项
+1. **避免与具体过去时间连用**：  
+   - ❌ I **have seen** him **yesterday**.  
+   - ✅ I **saw** him **yesterday**.  
+
+2. **美式英语 vs. 英式英语**：  
+   - 美式英语中，有时用一般过去时代替现在完成时：  
+     - 美式：**Did you eat yet?**  
+     - 英式：**Have you eaten yet?**  
+
+3. **延续性动词 vs. 短暂性动词**：  
+   - 延续性动词（live, work, study）可用现在完成时表示持续：  
+     - ✅ **I've worked here for 5 years.**  
+   - 短暂性动词（die, leave, arrive）需转换表达：  
+     - ❌ He **has died** for 2 years.  
+     - ✅ He **has been dead** for 2 years.  
+
+---
+
+### 六、总结口诀
+**“过去发生事，现在仍相关；  
+时间无具体，影响在眼前；  
+持续用for/since，经历ever/never；  
+若问何时做，过去时来填。”**
+
+通过结合语境、时间标志词和与一般过去时的对比，可以更准确地判断何时使用现在完成时。多阅读例句、分析场景，会帮助巩固理解！
